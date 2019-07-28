@@ -13,4 +13,4 @@ The 'predict.py' does prediction on the training auido files itself.
 The predictions are stored in the 'Predictions.csv' file.
 
 
-Just download the dataset and run all the '.py' files in th eorder given above.
+Just download the dataset and run all the '.py' files in the order given above.
