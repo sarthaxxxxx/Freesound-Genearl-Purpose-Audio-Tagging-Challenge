@@ -1,1 +1,1 @@
-# Freesound-Genearl-Purpose-Audio-Tagging-Challenge
+# Freesound-General-Purpose-Audio-Tagging-Challenge
