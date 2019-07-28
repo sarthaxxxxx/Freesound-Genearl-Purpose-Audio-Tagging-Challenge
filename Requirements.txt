@@ -1,0 +1,9 @@
+numpy : 1.16.2
+TensorFlow GPU: 1.13.1
+CUDA Toolkit: 10.0
+CUDNN
+keras: 2.2.4
+Librosa: 0.7.0
+python_speech_features
+matplotlib: 3.0.3
+tqdm: 4.31.1
