@@ -1,5 +1,5 @@
 # Freesound-General-Purpose-Audio-Tagging-Challenge
-This is a simplified implementation of the Freesound General Purpose Audio Tagging Challenge. 
+This is a simplified implementation of the Freesound General Purpose Audio Tagging Challenge. The entire dataset can be downloaded from https://www.kaggle.com/c/freesound-audio-tagging/data.
 
 The AudioFiles file consists of 10 classes of musical instruments, each having 30 '.wav' files. 
 The 'instruments.csv' file contains the names of the 'wav' files along with the class of musical instrument each audio belongs to.
