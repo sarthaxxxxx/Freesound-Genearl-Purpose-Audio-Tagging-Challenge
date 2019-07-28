@@ -8,7 +8,7 @@ The 'eda.py' file examines all the audio files and removes silence from each fil
 
 The 'model.py' file uses the audio files fom the 'clean' folder for feature extraction by considering the mfcc coefficients. By setting the mode of neural network, it is trained using CNN or LSTM architectures and the weights are saved.
 
-The 'predict.py' does prediction on the training auido files itself.
+The 'predict.py' does prediction/testing on the training audio files itself.
 
 The predictions are stored in the 'Predictions.csv' file.
 
